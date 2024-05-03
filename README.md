@@ -1,4 +1,5 @@
-# A low-cost, high-sensitivity vibration sensor
+# ShakeFinder
+## A low-cost, high-sensitivity vibration sensor
 
 ![ShakeFinder](ShakeFinder.webp)
 
