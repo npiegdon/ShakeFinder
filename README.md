@@ -1,7 +1,9 @@
 # ShakeFinder
 ## A low-cost, high-sensitivity vibration sensor
 
-![ShakeFinder](image.webp)
+[![ShakeFinder](image.webp)](https://www.youtube.com/watch?v=hmemnF16wfw)
+
+**Watch the [design video](https://www.youtube.com/watch?v=hmemnF16wfw) on YouTube!**
 
 ShakeFinder is based on [David Houlding's](https://davidhoulding.blogspot.com/2014/02/high-sensitivity-vibration-sensor-using.html) vibration sensor with a number of improvements.  The most notable is an open-drain output so it can be connected to non-5V microcontrollers (like Raspberry Pi) easily.
 
